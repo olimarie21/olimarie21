@@ -6,7 +6,7 @@ I'm a full-stack developer based in Vancouver, B.C. 👋
 - Recent graduate of Langara College's Web and Mobile Application Development post-graduate program 🎓
 - Currently working as a freelance full-stack developer for Codeca 💻
 - Seeking full-time full-stack & front-end development roles, either remote or based in Vancouver 👈
-- I am currently learning Typescript & PHP 🧠
+- I am currently learning Typescript 🧠
 - I have 6 years of experience in marketing & graphic design 🖌️
 - You can check out my portfolio at [oliviaunderdah.com](https://www.oliviaunderdah.com) 🖲️
 - You can reach me via email at olivia.underdah@gmail.com 📧
