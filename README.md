@@ -8,7 +8,7 @@ I'm a full-stack developer based in Vancouver, B.C. 👋
 - Seeking full-time full-stack & front-end development roles, either remote or based in Vancouver 👈
 - I am currently learning Typescript 🧠
 - I have 6 years of experience in marketing & graphic design 🖌️
-- You can check out my new portfolio site at [ou-portfolio.vercel.app](https://ou-portfolio.vercel.app) & while my domain transfer goes through, you can check out my old site at [oliviaunderdah.com](https://www.oliviaunderdah.com) 🖲️
+- You can check out my portfolio site (built with Next.js) at [oliviaunderdah.com](https://www.oliviaunderdah.com) 🖲️
 - You can reach me via email at olivia.underdah@gmail.com 📧
 - Pronouns she/her 😄
 
