@@ -3,7 +3,7 @@ I'm a full-stack developer based in Vancouver, B.C. 👋
 
 ## 🚀 About Me
 
-- Recent graduate of Langara College's Web and Mobile Application Development post-graduate program 🎓
+- Graduate of Langara College's Web and Mobile Application Development post-graduate program 🎓
 - Currently working as a freelance full-stack developer for Codeca 💻
 - Seeking full-time full-stack & front-end development roles, either remote or based in Vancouver 👈
 - I am currently learning Typescript 🧠
