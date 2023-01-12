@@ -1,5 +1,5 @@
 ## Hi there, i'm Olivia!
-I'm a full-stack developer based in Vancouver, B.C. 👋
+I'm a full-stack developer & digital communications professional based in Vancouver, B.C. 👋
 
 ## 🚀 About Me
 
