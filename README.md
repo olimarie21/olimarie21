@@ -1,11 +1,10 @@
 ## Hi there, i'm Olivia!
-I'm a full-stack developer & digital communications professional based in Vancouver, B.C. 👋
+I'm a full-stack developer based in Vancouver, B.C. 👋
 
 ## 🚀 About Me
 
 - Graduate of Langara College's Web and Mobile Application Development post-graduate program 🎓
-- Currently working as a freelance full-stack developer for Codeca 💻
-- Seeking full-time roles, either remote or based in Vancouver 👈
+- Currently working as a front-end developer for the Mark Anthony Group💻
 - I am currently learning Typescript 🧠
 - I have 6 years of experience in marketing & graphic design 🖌️
 - You can check out my portfolio site (built with Next.js) at [oliviaunderdah.com](https://www.oliviaunderdah.com) 🖲️
