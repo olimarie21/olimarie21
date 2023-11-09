@@ -3,11 +3,11 @@ I'm a full-stack developer based in Vancouver, B.C. 👋
 
 ## 🚀 About Me
 
-- Graduate of Langara College's Web and Mobile Application Development post-graduate program 🎓
-- Currently working as a front-end developer for the Mark Anthony Group💻
+- Currently looking for my next role as a Front-end or Full-stack Developer 💻 [Check out my LinkedIn](https://www.linkedin.com/in/oliviaunderdah/)
+- You can visit out my portfolio site (built with Next.js) at [oliviaunderdah.com](https://www.oliviaunderdah.com) 🖲️
+- I graduateed from Langara College's Web and Mobile Application Development post-graduate program in 2022 🎓
 - I am currently learning Typescript 🧠
 - I have 6 years of experience in marketing & graphic design 🖌️
-- You can check out my portfolio site (built with Next.js) at [oliviaunderdah.com](https://www.oliviaunderdah.com) 🖲️
 - You can reach me via email at olivia.underdah@gmail.com 📧
 - Pronouns she/her 😄
 
